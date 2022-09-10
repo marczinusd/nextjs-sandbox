@@ -1,4 +1,5 @@
 import { Bears } from "@/components/Bears";
+import { Pokemon } from "@/components/Pokemon";
 import type { NextPage } from "next";
 import Head from "next/head";
 
@@ -12,6 +13,7 @@ const Home: NextPage = () => {
       </Head>
       <main>
         <Bears />
+        <Pokemon />
       </main>
     </div>
   );
