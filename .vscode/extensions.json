@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "Orta.vscode-jest",
+    "bradlc.vscode-tailwindcss",
+    "catppuccin.catppuccin-vsc"
+  ]
+}
